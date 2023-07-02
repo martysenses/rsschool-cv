@@ -16,3 +16,18 @@ I want to get knowledge and skills that will be enough for employment in a compa
 * Git, GitHub
 * VS Code
 * Adobe Photoshop, Canva
+ 
+ ***
+## Code example: ##
+```
+x = int(input())
+
+if x > 0:
+
+    print(x)
+
+else:
+
+    print(-x)
+
+```
