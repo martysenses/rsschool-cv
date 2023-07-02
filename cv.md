@@ -31,3 +31,12 @@ else:
     print(-x)
 
 ```
+
+***
+## Education ##
+* Belarusian National Technical University (power supply engineer)
+
+***
+## Languages ##
+* Russian - Native
+* English- intermediate
